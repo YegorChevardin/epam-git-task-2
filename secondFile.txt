@@ -1,5 +1,5 @@
-gfdf
-hfghgf
+First line modified: gfdf
+Scond line modified: hfghgf
 hfghfh
 hfh
 ghg
