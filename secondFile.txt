@@ -1,5 +1,5 @@
-gfdf
-hfghgf
+First line modified from git_1: gfdf
+Second line modified from git_2: hfghgf
 hfghfh
 hfh
 ghg
