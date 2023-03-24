@@ -1,9 +1,9 @@
-First line modified: some
-Second line modified: sd
-d
-f
+CHANGED First line modified: some
+CHANGED Second line modified: sd
+lgjdkgjdflgkdjgd
+d;gjdfldfjgldfgjdflgjdlgdf
 g
-g
+lfjsdfjslfsjflskfjslfjslfsjlfsj
 h
 Changed line: tu
 Changed another line: k
