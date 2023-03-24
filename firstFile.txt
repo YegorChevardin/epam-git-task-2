@@ -5,5 +5,5 @@ f
 g
 g
 h
-tu
-k
+Changed line: tu
+Changed another line: k
